@@ -1,0 +1,10 @@
+{
+  "name": "iStudy Study Tracker",
+  "short_name": "iStudy",
+  "description": "Study timer with automatic breaks and study statistics",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "icons": []
+}
